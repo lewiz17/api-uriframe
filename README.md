@@ -1,6 +1,5 @@
-# Faker API Server
+# API Server for URI Frames
 
-This is an example of using [json-server](https://github.com/typicode/json-server) to build a fake API server. Here are some steps to get started and deploy on Heroku:
 
 ## Step 1: Install dependencies
 
@@ -16,7 +15,7 @@ yarn start
 
 By default, the server will run on port <http://localhost:3200>. You can modify the port by setting the PORT environment variable.
 
-## Step 3: Deploy on Heroku
+## Step 3: Deploy on Heroku or Render
 
 ```bash
 heroku create
